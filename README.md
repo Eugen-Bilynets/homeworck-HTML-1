@@ -11,3 +11,5 @@ Assignment-1
 6. Pull rebase (when you have your changes and want to upate with main branch) `git pull --rebase repository-name branch-name`
 7.  Check your changes `git status`
 8. Merge your changes to needed branch `git merge branch-name`
+9. Remove remote branch `git push repository-name :branch-name`
+10. Push your changes `git push repository-name branch-name`
