@@ -8,7 +8,7 @@ body {
     color: #fff;
     border: none;
     font-size: 1rem;
-    padding: 20px;
+    padding: 10px 20px;
     border-radius: 8px;
 }
 
@@ -16,4 +16,10 @@ body {
     cursor: pointer;
     background-color: #442dc7;
     transition: all ease-in-out .3s;
+}
+
+.text {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
 }
