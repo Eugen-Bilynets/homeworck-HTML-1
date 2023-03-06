@@ -4,7 +4,7 @@ Assignment-1
 # Git rules
 
 1. Create a new branch `git checkout -b branch-name`
-2. Switch branch `git checkout branch-nae`
+2. Switch branch `git checkout branch-name`
 3. Check existing branches `git branch`
 4. Remove branch `git branch -D branch-name`
 5. Pull the changes (when you don't have your changes) `git pull repository-name branch-name`
