@@ -9,4 +9,4 @@ Assignment-1
 4. Remove branch `git branch -D branch-name`
 5. Pull the changes (when you don't have your changes) `git pull repository-name branch-name`
 6. Pull rebase (when you have your changes and want to upate with main branch) `git pull --rebase repository-name branch-name`
-7.  
+7.  Check your changes `git status`
